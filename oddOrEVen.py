@@ -7,4 +7,4 @@ while True:
         else:
             print("this is a odd number")
     else:
-        print("this is not a number, please input a number")
+        print("this is not a number, please input a number moron")
